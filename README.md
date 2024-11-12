@@ -1,14 +1,7 @@
-- 👋 Hi, I’m @gregwalton279
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### Greg Walton
+[![Gmail Badge](https://img.shields.io/badge/-gregwalton279@gmail.com-FFEE55?logo=Gmail&link=mailto:gregwalton279@gmail.com)](mailto:gregwalton279@gmail.com)
 
-<!---
-gregwalton279/gregwalton279 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-- 🌱 I’m currently learning Flutter & Rust.
+***
 
-![github stats](https://github-readme-stats.vercel.app/api?username=gregwalton279)
+![Greg Walton's GitHub stats](https://github-readme-stats.vercel.app/api?username=gregwalton279&count_private=true&hide_border=true&show_icons=true&title_color=EF6C72&icon_color=FFF98A&text_color=F8999A&bg_color=7CACF7)
